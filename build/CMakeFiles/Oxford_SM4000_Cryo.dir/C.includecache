@@ -1,0 +1,628 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/dllmain.c
+stdio.h
+-
+windows.h
+-
+kicommon.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/kicommon.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_initialize.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_read_all.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_read_ilm.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_read_ips.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_read_itc.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_read_lambda.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_set_active.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_set_magnetic_field.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_set_standby.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/kitt_src/w_oxford_set_temperature.c
+COM_usrlib.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_initialize.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+windows.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_read_all.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_read_ilm.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_read_ips.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_read_itc.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_read_lambda.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_set_active.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_set_magnetic_field.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_set_standby.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_set_temperature.c
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+oxford_kult.h
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/src/oxford_kult.h
+
+c:/program files (x86)/MinGW/include/_mingw.h
+msvcrtver.h
+-
+w32api.h
+-
+
+c:/program files (x86)/MinGW/include/_winsock.h
+sdkddkver.h
+-
+winsock2.h
+-
+winsock.h
+-
+
+c:/program files (x86)/MinGW/include/basetsd.h
+
+c:/program files (x86)/MinGW/include/basetyps.h
+
+c:/program files (x86)/MinGW/include/cderr.h
+
+c:/program files (x86)/MinGW/include/cguid.h
+
+c:/program files (x86)/MinGW/include/commctrl.h
+prsht.h
+-
+
+c:/program files (x86)/MinGW/include/commdlg.h
+unknwn.h
+-
+prsht.h
+-
+
+c:/program files (x86)/MinGW/include/ctype.h
+_mingw.h
+-
+wctype.h
+c:/program files (x86)/MinGW/include/wctype.h
+
+c:/program files (x86)/MinGW/include/dbt.h
+windef.h
+-
+
+c:/program files (x86)/MinGW/include/dde.h
+
+c:/program files (x86)/MinGW/include/ddeml.h
+
+c:/program files (x86)/MinGW/include/direct.h
+dos.h
+c:/program files (x86)/MinGW/include/dos.h
+
+c:/program files (x86)/MinGW/include/dlgs.h
+
+c:/program files (x86)/MinGW/include/dos.h
+io.h
+c:/program files (x86)/MinGW/include/io.h
+
+c:/program files (x86)/MinGW/include/excpt.h
+_mingw.h
+-
+windef.h
+-
+
+c:/program files (x86)/MinGW/include/imm.h
+
+c:/program files (x86)/MinGW/include/io.h
+_mingw.h
+-
+sys/types.h
+-
+stdint.h
+c:/program files (x86)/MinGW/include/stdint.h
+
+c:/program files (x86)/MinGW/include/locale.h
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/lzexpand.h
+
+c:/program files (x86)/MinGW/include/math.h
+_mingw.h
+-
+
+c:/program files (x86)/MinGW/include/mmsystem.h
+
+c:/program files (x86)/MinGW/include/msvcrtver.h
+_mingw.h
+-
+
+c:/program files (x86)/MinGW/include/mswsock.h
+
+c:/program files (x86)/MinGW/include/nb30.h
+
+c:/program files (x86)/MinGW/include/nspapi.h
+_winsock.h
+c:/program files (x86)/MinGW/include/_winsock.h
+wtypes.h
+c:/program files (x86)/MinGW/include/wtypes.h
+
+c:/program files (x86)/MinGW/include/oaidl.h
+windows.h
+-
+ole2.h
+-
+
+c:/program files (x86)/MinGW/include/objbase.h
+rpc.h
+-
+rpcndr.h
+-
+stdlib.h
+-
+basetyps.h
+-
+wtypes.h
+-
+unknwn.h
+-
+objidl.h
+-
+cguid.h
+-
+
+c:/program files (x86)/MinGW/include/objfwd.h
+basetyps.h
+-
+
+c:/program files (x86)/MinGW/include/objidl.h
+objfwd.h
+-
+
+c:/program files (x86)/MinGW/include/ole2.h
+winerror.h
+-
+objbase.h
+-
+olectlid.h
+-
+oleauto.h
+-
+oleidl.h
+-
+
+c:/program files (x86)/MinGW/include/oleauto.h
+oaidl.h
+-
+
+c:/program files (x86)/MinGW/include/olectlid.h
+
+c:/program files (x86)/MinGW/include/oleidl.h
+objfwd.h
+-
+
+c:/program files (x86)/MinGW/include/poppack.h
+
+c:/program files (x86)/MinGW/include/process.h
+_mingw.h
+-
+sys/types.h
+-
+stdint.h
+c:/program files (x86)/MinGW/include/stdint.h
+
+c:/program files (x86)/MinGW/include/prsht.h
+
+c:/program files (x86)/MinGW/include/pshpack2.h
+
+c:/program files (x86)/MinGW/include/pshpack4.h
+
+c:/program files (x86)/MinGW/include/rpc.h
+windows.h
+-
+rpcdce.h
+-
+rpcnsi.h
+-
+rpcnterr.h
+-
+winerror.h
+-
+excpt.h
+-
+
+c:/program files (x86)/MinGW/include/rpcdce.h
+basetyps.h
+-
+rpcdcep.h
+-
+
+c:/program files (x86)/MinGW/include/rpcdcep.h
+
+c:/program files (x86)/MinGW/include/rpcndr.h
+rpcnsip.h
+-
+objfwd.h
+-
+
+c:/program files (x86)/MinGW/include/rpcnsi.h
+
+c:/program files (x86)/MinGW/include/rpcnsip.h
+
+c:/program files (x86)/MinGW/include/rpcnterr.h
+
+c:/program files (x86)/MinGW/include/sdkddkver.h
+
+c:/program files (x86)/MinGW/include/shellapi.h
+pshpack2.h
+-
+poppack.h
+-
+
+c:/program files (x86)/MinGW/include/stdint.h
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/stdio.h
+_mingw.h
+-
+stddef.h
+-
+sys/types.h
+c:/program files (x86)/MinGW/include/sys/types.h
+stdarg.h
+c:/program files (x86)/MinGW/include/stdarg.h
+locale.h
+-
+
+c:/program files (x86)/MinGW/include/stdlib.h
+_mingw.h
+-
+stddef.h
+-
+locale.h
+-
+
+c:/program files (x86)/MinGW/include/string.h
+_mingw.h
+-
+stddef.h
+-
+strings.h
+-
+strings.h
+c:/program files (x86)/MinGW/include/strings.h
+wchar.h
+c:/program files (x86)/MinGW/include/wchar.h
+
+c:/program files (x86)/MinGW/include/strings.h
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/sys/bsdtypes.h
+_mingw.h
+-
+
+c:/program files (x86)/MinGW/include/sys/stat.h
+sys/types.h
+-
+
+c:/program files (x86)/MinGW/include/sys/time.h
+time.h
+-
+
+c:/program files (x86)/MinGW/include/sys/types.h
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/time.h
+sys/types.h
+-
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/unknwn.h
+windows.h
+-
+objfwd.h
+-
+wtypes.h
+-
+
+c:/program files (x86)/MinGW/include/w32api.h
+sdkddkver.h
+-
+
+c:/program files (x86)/MinGW/include/wchar.h
+_mingw.h
+-
+wctype.h
+-
+sys/types.h
+-
+stdio.h
+c:/program files (x86)/MinGW/include/stdio.h
+stdlib.h
+c:/program files (x86)/MinGW/include/stdlib.h
+direct.h
+c:/program files (x86)/MinGW/include/direct.h
+sys/stat.h
+c:/program files (x86)/MinGW/include/sys/stat.h
+io.h
+c:/program files (x86)/MinGW/include/io.h
+time.h
+c:/program files (x86)/MinGW/include/time.h
+locale.h
+c:/program files (x86)/MinGW/include/locale.h
+process.h
+c:/program files (x86)/MinGW/include/process.h
+
+c:/program files (x86)/MinGW/include/wctype.h
+_mingw.h
+-
+stddef.h
+-
+
+c:/program files (x86)/MinGW/include/winbase.h
+stdarg.h
+-
+windef.h
+-
+
+c:/program files (x86)/MinGW/include/wincon.h
+
+c:/program files (x86)/MinGW/include/windef.h
+w32api.h
+-
+winnt.h
+-
+
+c:/program files (x86)/MinGW/include/windows.h
+winresrc.h
+-
+stdarg.h
+-
+windef.h
+-
+wincon.h
+-
+winbase.h
+-
+wingdi.h
+-
+winuser.h
+-
+winnls.h
+-
+winver.h
+-
+winnetwk.h
+-
+winreg.h
+-
+winsvc.h
+-
+cderr.h
+-
+dde.h
+-
+ddeml.h
+-
+dlgs.h
+-
+imm.h
+-
+lzexpand.h
+-
+mmsystem.h
+-
+nb30.h
+-
+rpc.h
+-
+shellapi.h
+-
+winperf.h
+-
+commdlg.h
+-
+winspool.h
+-
+_winsock.h
+c:/program files (x86)/MinGW/include/_winsock.h
+ole2.h
+-
+
+c:/program files (x86)/MinGW/include/winerror.h
+
+c:/program files (x86)/MinGW/include/wingdi.h
+windef.h
+-
+
+c:/program files (x86)/MinGW/include/winnetwk.h
+
+c:/program files (x86)/MinGW/include/winnls.h
+
+c:/program files (x86)/MinGW/include/winnt.h
+windef.h
+-
+winerror.h
+-
+string.h
+-
+basetsd.h
+-
+pshpack4.h
+-
+poppack.h
+-
+
+c:/program files (x86)/MinGW/include/winperf.h
+
+c:/program files (x86)/MinGW/include/winreg.h
+
+c:/program files (x86)/MinGW/include/winresrc.h
+winuser.h
+-
+winnt.h
+-
+winver.h
+-
+dde.h
+-
+dlgs.h
+-
+commctrl.h
+-
+
+c:/program files (x86)/MinGW/include/winsock.h
+windows.h
+-
+winerror.h
+-
+sys/bsdtypes.h
+-
+sys/time.h
+-
+mswsock.h
+-
+
+c:/program files (x86)/MinGW/include/winsock2.h
+winsock.h
+c:/program files (x86)/MinGW/include/winsock.h
+nspapi.h
+c:/program files (x86)/MinGW/include/nspapi.h
+
+c:/program files (x86)/MinGW/include/winspool.h
+
+c:/program files (x86)/MinGW/include/winsvc.h
+
+c:/program files (x86)/MinGW/include/winuser.h
+windef.h
+-
+wingdi.h
+-
+stdarg.h
+-
+dbt.h
+-
+
+c:/program files (x86)/MinGW/include/winver.h
+
+c:/program files (x86)/MinGW/include/wtypes.h
+rpc.h
+-
+rpcndr.h
+-
+
+c:/s4200/sys/include/COM_usrlib.h
+ktemalloc.h
+c:/s4200/sys/include/ktemalloc.h
+stdio.h
+-
+stdlib.h
+-
+
+c:/s4200/sys/include/kicommon.h
+
+c:/s4200/sys/include/ktemalloc.h
+stdio.h
+-
+kteprintf.h
+c:/s4200/sys/include/kteprintf.h
+
+c:/s4200/sys/include/kteprintf.h
+stdio.h
+-
+stdarg.h
+-
+

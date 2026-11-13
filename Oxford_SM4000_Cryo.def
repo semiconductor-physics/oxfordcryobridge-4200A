@@ -1,0 +1,23 @@
+LIBRARY Oxford_SM4000_Cryo
+EXPORTS
+	DllMain
+	oxford_initialize
+	w_oxford_initialize
+	oxford_read_all
+	w_oxford_read_all
+	oxford_read_ilm
+	w_oxford_read_ilm
+	oxford_read_ips
+	w_oxford_read_ips
+	oxford_read_itc
+	w_oxford_read_itc
+	oxford_read_lambda
+	w_oxford_read_lambda
+	oxford_set_active
+	w_oxford_set_active
+	oxford_set_magnetic_field
+	w_oxford_set_magnetic_field
+	oxford_set_standby
+	w_oxford_set_standby
+	oxford_set_temperature
+	w_oxford_set_temperature
