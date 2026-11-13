@@ -1,0 +1,4 @@
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/build/CMakeFiles/Oxford_SM4000_Cryo.dir
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/build/CMakeFiles/clean-module.dir
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/build/CMakeFiles/edit_cache.dir
+C:/s4200/kiuser/usrlib/Oxford_SM4000_Cryo/build/CMakeFiles/rebuild_cache.dir
